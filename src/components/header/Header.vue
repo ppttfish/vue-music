@@ -1,6 +1,6 @@
 <template>
   <div class="nav-header">
-    <div class="header-title">我的音乐</div>
+    <h1 class="header-title">我的音乐</h1>
   </div>
 </template>
 
@@ -17,6 +17,7 @@ export default {
     line-height: $navHeight
     background-color: black
     .header-title
+      font-size: .36rem
       text-align: center
-      color: #ffcd32
+      color: $mainColor
 </style>
