@@ -1,4 +1,5 @@
 <template>
+  <h1>Singer</h1>
 </template>
 
 <script>
